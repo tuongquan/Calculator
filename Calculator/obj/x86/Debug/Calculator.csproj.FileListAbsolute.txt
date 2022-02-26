@@ -1,0 +1,7 @@
+D:\FormTH1\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\FormTH1\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\FormTH1\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+D:\FormTH1\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\FormTH1\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+D:\FormTH1\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\FormTH1\Calculator\Calculator\obj\x86\Debug\Calculator.pdb

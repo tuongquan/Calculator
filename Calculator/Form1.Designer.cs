@@ -91,8 +91,9 @@
             this.btKQ.Name = "btKQ";
             this.btKQ.Size = new System.Drawing.Size(203, 56);
             this.btKQ.TabIndex = 2;
-            this.btKQ.Text = "button1";
+            this.btKQ.Text = "Ket qua";
             this.btKQ.UseVisualStyleBackColor = true;
+            this.btKQ.Click += new System.EventHandler(this.btKQ_Click);
             // 
             // Form1
             // 
